@@ -1,7 +1,7 @@
-# 🗒️ C# Not Defteri Uygulaması (Notepad Clone)
+# 🗒️ C# Not Defteri Uygulaması (Notepad)
 
 Bu proje, C# programlama dili ve Visual Studio ortamında, Windows Forms (WinForms) kullanılarak geliştirilmiş basit bir Not Defteri (Notepad) klonudur. Temel dosya işlemlerini (Açma, Kaydetme, Yeni oluşturma) gerçekleştirmektedir.
-### Çalıştırılabilir zip dosyası linki:
+### Çalıştırılabilir zip dosyası linki: https://github.com/MeralYavuzturk/notepad/releases/tag/v1.0.0
 
 ## ✨ Özellikler
 
