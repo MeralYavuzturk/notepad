@@ -41,4 +41,4 @@ Dosya işlemleri için kullanılan temel C# sınıfları:
 ---
 ## 🧑‍💻 Geliştirici
 
-[Adınız Soyadınız] - (Okul Numaranız/GitHub Profiliniz)
+Meral Yavuztürk
